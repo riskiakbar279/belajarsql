@@ -1,3 +1,5 @@
+# BAGUSNYA DI LIHAT SECARA RAW BIAR PAHAM HEHEHEHE
+
 # belajarsql
 belajar buat database
 
