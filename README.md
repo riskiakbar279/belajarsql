@@ -1,0 +1,2 @@
+# belajarsql
+belajar buat database
